@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushka :)</h1>
-<h3 align="center">A passionate frontend developer </h3>
+<h3 align="center">A frontend developer & ML enthusiast </h3>
 <img align="right" alt="cutecat" width="400" src="https://media.tenor.com/9gcRZ1firEMAAAAC/cat-cute.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkabehere&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkabehere" /> </p>
